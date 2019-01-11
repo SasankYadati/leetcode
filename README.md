@@ -35,3 +35,5 @@ My Solutions to Leetcode Problems
 16. [Unique Paths problem](https://leetcode.com/problems/unique-paths/) | [solution](Unique%20Paths.cpp)
 
 17. [Contains Duplicate problem](https://leetcode.com/problems/contains-duplicate/) | [solution](Contains%20Duplicate.cpp)
+
+18. [Min Stack problem](https://leetcode.com/problems/min-stack/) | [solution](Min%20Stack.cpp)
