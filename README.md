@@ -33,3 +33,5 @@ My Solutions to Leetcode Problems
 15. [Validate Binary Search Tree problem](https://leetcode.com/problems/validate-binary-search-tree) | [solution](Validate-Binary-Search-Tree.cpp)
 
 16. [Unique Paths problem](https://leetcode.com/problems/unique-paths/) | [solution](Unique%20Paths.cpp)
+
+17. [Contains Duplicate problem](https://leetcode.com/problems/contains-duplicate/) | [solution](Contains%20Duplicate.cpp)
