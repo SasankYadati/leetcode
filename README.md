@@ -40,4 +40,4 @@ My Solutions to Leetcode Problems
 
 19. [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [solution](solutions/Perfect%20Squares.cpp)
 
-20. [Merged Intervals](https://leetcode.com/problems/merge-intervals/) | [solution](solutions/Merge%20Intervals.cpp)
+20. [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [solution](solutions/Merge%20Intervals.cpp)
