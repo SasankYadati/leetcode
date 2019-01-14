@@ -47,3 +47,5 @@ My Solutions to Leetcode Problems
 22. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [solution](solutions/Maximum%20Depth%20of%20Binary%20Tree.cpp)
 
 23. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [solution](solutions/Linked%20List%20Cycle.cpp)
+
+24. [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [solution](solutions/Implement%20Trie.cpp)
