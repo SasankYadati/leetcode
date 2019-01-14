@@ -48,4 +48,4 @@ My Solutions to Leetcode Problems
 
 23. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [solution](solutions/Linked%20List%20Cycle.cpp)
 
-24. [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [solution](solutions/Implement%20Trie.cpp)
+24. [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [solution](solutions/Implement%20Trie.py)
