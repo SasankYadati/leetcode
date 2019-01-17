@@ -10,7 +10,7 @@ My Solutions to Leetcode Problems
 
 4. [Convert Sorted Array into Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [solution](solutions/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp)
 
-5. [Goat Latin]() | [solution](solutions/Goat%20Latin.py)
+5. [Goat Latin](https://leetcode.com/problems/goat-latin/) | [solution](solutions/Goat%20Latin.py)
 
 6. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [solution](solutions/Intersection%20of%20Two%20Linked%20Lists.cpp)
 
