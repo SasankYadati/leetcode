@@ -51,3 +51,5 @@ My Solutions to Leetcode Problems
 24. [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [solution](solutions/Implement%20Trie.py)
 
 25. [Count Primes](https://leetcode.com/problems/count-primes/) | [solution](solutions/Count%20Primes.cpp)
+
+26. [Single Number](https://leetcode.com/problems/single-number/) | [solution](solutions/Single%20Number.cpp)
