@@ -55,3 +55,5 @@ My Solutions to Leetcode Problems
 26. [Single Number](https://leetcode.com/problems/single-number/) | [solution](solutions/Single%20Number.cpp)
 
 27. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [solution](solutions/Longest%20Common%20Prefix.cpp)
+
+28. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [solution](solutions/Valid%20Anagram.cpp)
