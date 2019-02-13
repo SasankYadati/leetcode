@@ -59,3 +59,5 @@ My Solutions to Leetcode Problems
 28. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [solution](solutions/Valid%20Anagram.cpp)
 
 29. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [solution](solutions/Maximum%20Subarray.cpp)
+
+30. [String to Integer(atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [solution](solutions/String%20to%20Integer(atoi).cpp)
