@@ -61,3 +61,5 @@ My Solutions to Leetcode Problems
 29. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [solution](solutions/Maximum%20Subarray.cpp)
 
 30. [String to Integer(atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [solution](solutions/String%20to%20Integer(atoi).cpp)
+
+31. [3Sum](https://leetcode.com/problems/3sum/) | [solution](solutions/3Sum.cpp)
