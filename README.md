@@ -63,3 +63,5 @@ My Solutions to Leetcode Problems
 30. [String to Integer(atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [solution](solutions/String%20to%20Integer(atoi).cpp)
 
 31. [3Sum](https://leetcode.com/problems/3sum/) | [solution](solutions/3Sum.cpp)
+
+32. [Sort Colors](https://leetcode.com/problems/sort-colors/) | [solution](solutions/Sort%20Colors.cpp)
