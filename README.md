@@ -65,3 +65,5 @@ My Solutions to Leetcode Problems
 31. [3Sum](https://leetcode.com/problems/3sum/) | [solution](solutions/3Sum.cpp)
 
 32. [Sort Colors](https://leetcode.com/problems/sort-colors/) | [solution](solutions/Sort%20Colors.cpp)
+
+33. [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [solution](solutions/Insert%20Delete%20GetRandom%20O(1).cpp)
