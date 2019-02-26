@@ -5,9 +5,12 @@ public:
         // idea: presort
         sort(nums.begin(), nums.end());
         int n = nums.size();
-        int i=0,j,k;
+        int i,j,k;
         
-        while(i<n){
+        vector<int> triplet;
+        int sum_jk;
+        
+        for(int i=0; i<n;){
             // i is the first element in the potential triplet
             // j and k are the other two
             j = i+1;
@@ -15,42 +18,41 @@ public:
             
             while(j<k){
                 // j and k should add upto -i for a triplet
-                if(nums[j]+nums[k] == -nums[i])
+                sum_jk = nums[j]+nums[k];
+                if(sum_jk == -nums[i])
                 {
-                    vector<int> triplet;
-                    triplet.push_back(nums[i]);
-                    triplet.push_back(nums[j]);
-                    triplet.push_back(nums[k]);
+                    triplet = {nums[i], nums[j], nums[k]};
+                    // triplet.push_back(nums[i]);
+                    // triplet.push_back(nums[j]);
+                    // triplet.push_back(nums[k]);
                     res.push_back(triplet);
+                    triplet.clear();
                     // increment j and decrement k while j+1 is same as j and k-1 is same as k
-                    j++;
-                    while(j < k && nums[j] == nums[j-1]){
+                    
+                    do{
                         j++;
-                    }
-                    k--;
-                    while(k > j && nums[k] == nums[k+1]){
+                    }while(j < k && nums[j] == nums[j-1]);
+                    
+                    do{
                         k--;
-                    }
+                    }while(k > j && nums[k] == nums[k+1]);
                 }
-                else if(nums[j]+nums[k] > -nums[i])
+                else if(sum_jk > -nums[i])
                 {
-                    k--;
-                    while(k > j && nums[k] == nums[k+1]){
+                    do{
                         k--;
-                    }
+                    }while(k > j && nums[k] == nums[k+1]);
                 }
                 else
                 {
-                    j++;
-                    while(j < k && nums[j] == nums[j-1]){
+                    do{
                         j++;
-                    }
+                    }while(j < k && nums[j] == nums[j-1]);
                 }
             }
-            i++;
-            while(i<n && nums[i] == nums[i-1]){
+            do{
                 i++;
-            }
+            }while(i < n-2 && nums[i] == nums[i-1]);
         }
         return res;
     }
