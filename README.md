@@ -67,3 +67,5 @@ My Solutions to Leetcode Problems
 32. [Sort Colors](https://leetcode.com/problems/sort-colors/) | [solution](solutions/Sort%20Colors.cpp)
 
 33. [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [solution](solutions/Insert%20Delete%20GetRandom%20O(1).cpp)
+
+34. [Majority Element](https://leetcode.com/problems/majority-element/) | [solution](solutions/Majority%20Element.cpp)
